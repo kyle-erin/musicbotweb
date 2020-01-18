@@ -1,0 +1,24 @@
+{
+  "name": "musicbotweb",
+  "version": "1.0.0",
+  "description": "A web interface that uses a music bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyle-erin/musicbotweb.git"
+  },
+  "author": "Kyle Phillips",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyle-erin/musicbotweb/issues"
+  },
+  "homepage": "https://github.com/kyle-erin/musicbotweb#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "discord.js-musicbot-addon": "^13.8.1",
+    "express": "^4.17.1"
+  }
+}
